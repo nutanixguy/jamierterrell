@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie Terrell, an experienced Infrastructure Engineer.</h1>
-<h3 align="left">Currently on a learning path for DevOps and Programming skills.</h3>
+<h3 align="left">Currently on a learning path for developing my DevOps and Programming skills.</h3>
 
 - 🌱 I’m currently learning **Git, Packer, PowerShell, Python, Terraform, Vagrant, etc..**
 

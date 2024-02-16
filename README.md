@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Citrix, Nutanix, Azure**
 
-- 📫 How to reach me **jamierterrell@msn.com**
+- 📫 How to reach me **jamie@nutanixguy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
